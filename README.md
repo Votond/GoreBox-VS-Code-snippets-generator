@@ -1,0 +1,1 @@
+# GoreBox VS Code snippets generator
